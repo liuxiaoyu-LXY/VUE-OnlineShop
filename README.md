@@ -1,4 +1,4 @@
-# jd
+# An online shop web App Based on VUE
 
 ## Project setup
 ```
